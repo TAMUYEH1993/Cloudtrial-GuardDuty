@@ -78,5 +78,5 @@ Include:
 ---
 
 ## 🔗 Connect
-Built by [Your Name] as part of a cloud security portfolio project.  
-Feel free to connect on [LinkedIn](https://linkedin.com/in/your-profile) or explore more projects on [GitHub](https://github.com/yourusername).
+Built by Built by Bon Tamuyeh as part of a cloud security portfolio project.  
+Feel free to connect on https://www.linkedin.com/in/bon-tamuyeh-b828a02ab/ or explore more projects on https://github.com/TAMUYEH1993/Cloudtrial-GuardDuty/edit/main/README.md.
